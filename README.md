@@ -12,6 +12,8 @@
 + [Artigo Engenharia de Software - Introdução à Engenharia de Requisitos](https://www.devmedia.com.br/artigo-engenharia-de-software-introducao-a-engenharia-de-requisitos/8034)
 + [Utilização de checklist para validação de requisitos de software](https://imasters.com.br/devsecops/utilizacao-de-checklist-para-validacao-de-requisitos-de-software)
 
-
 <br>
   
+### 🎙️ Podcasts
+
++ [Scrum: do zero ao Sprint - Hipsters #54](https://cursos.alura.com.br/hipsterstech-scrum-do-zero-ao-sprint-hipsters-54-a532)
