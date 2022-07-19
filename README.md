@@ -17,6 +17,8 @@
 + [Trabalhando com Engenharia de Requisitos - DevMedia](https://www.devmedia.com.br/trabalhando-com-engenharia-de-requisitos/30207) 
 + [Utilização de checklist para validação de requisitos de software - Imasters](https://imasters.com.br/devsecops/utilizacao-de-checklist-para-validacao-de-requisitos-de-software)
 + [Engenharia de Requisitos: quais as etapas e como funciona? - Betrybe](https://blog.betrybe.com/tecnologia/engenharia-de-requisitos-tudo-sobre/)
++ [A importância da Engenharia de Requisitos - Engenharia de Software 33 - DevMedia](https://www.devmedia.com.br/a-importancia-da-engenharia-de-requisitos-engenharia-de-software-33/19305)
+
 
 <br>
   
