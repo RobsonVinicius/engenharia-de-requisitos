@@ -23,7 +23,22 @@
 
 
 <br>
+
+## 🎓 Cursos
+
++ [Soluções Concretas para Problemas Práticos da Engenharia de Requisitos - Devmedia](https://www.devmedia.com.br/curso/solucoes-concretas-para-problemas-praticos-da-engenharia-de-requisitos/308)
+
+<br>
   
 ### 🎙️ Podcasts
 
 + [Scrum: do zero ao Sprint - Hipsters #54](https://cursos.alura.com.br/hipsterstech-scrum-do-zero-ao-sprint-hipsters-54-a532)
+
+
+<br>
+
+## 🎓 Cursos
+
++ Interaction Design Foundation (https://www.interaction-design.org/)
++ NN Group (https://www.nngroup.com/training/)
++ edX (https://www.edx.org/learn/user-experience-ux)
