@@ -20,11 +20,12 @@
 + [A importância da Engenharia de Requisitos - Engenharia de Software 33 - DevMedia](https://www.devmedia.com.br/a-importancia-da-engenharia-de-requisitos-engenharia-de-software-33/19305)
 + [Requisitos não Funcionais - DevMedia](https://www.devmedia.com.br/artigo-engenharia-de-software-3-requisitos-nao-funcionais/9525)
 + [Competências essenciais ao engenheiro de requisitos - DevMedia](https://www.devmedia.com.br/competencias-essenciais-ao-engenheiro-de-requisitos/34193)
++ [Técnicas para levantamento de Requisitos - Devmedia)[https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151]
 
 
 <br>
 
-## 🎓 Cursos
+### 🎓 Cursos
 
 + [Soluções Concretas para Problemas Práticos da Engenharia de Requisitos - Devmedia](https://www.devmedia.com.br/curso/solucoes-concretas-para-problemas-praticos-da-engenharia-de-requisitos/308)
 
