@@ -21,6 +21,7 @@
 + [Requisitos não Funcionais - DevMedia](https://www.devmedia.com.br/artigo-engenharia-de-software-3-requisitos-nao-funcionais/9525)
 + [Competências essenciais ao engenheiro de requisitos - DevMedia](https://www.devmedia.com.br/competencias-essenciais-ao-engenheiro-de-requisitos/34193)
 + [Técnicas para levantamento de Requisitos - Devmedia](https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151)
++ [Canvas Req: Levantamento de requisitos de software com Canvas - DevMedia](https://www.devmedia.com.br/canvas-req-levantamento-de-requisitos-de-software-com-canvas/33991)
 
 
 <br>
