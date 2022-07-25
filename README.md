@@ -28,6 +28,13 @@
 
 <br>
 
+### 📚 Livros
+ 
++ Engenharia de requisitos: software orientado ao negócio – Vazquez, Simões { [Comprar na Amazon](https://www.amazon.com.br/Engenharia-Requisitos-Software-Orientado-Neg%C3%B3cio/dp/8574527904/ref=asc_df_8574527904/?tag=googleshopp00-20&linkCode=df0&hvadid=379685898225&hvpos=&hvnetw=g&hvrand=6856855941388331578&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001634&hvtargid=pla-398225629438&psc=1) }
+
+
+<br>
+
 ### 🎓 Cursos
 
 + [Soluções Concretas para Problemas Práticos da Engenharia de Requisitos - Devmedia](https://www.devmedia.com.br/curso/solucoes-concretas-para-problemas-praticos-da-engenharia-de-requisitos/308)
