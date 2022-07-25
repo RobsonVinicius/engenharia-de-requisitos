@@ -22,6 +22,7 @@
 + [Competências essenciais ao engenheiro de requisitos - DevMedia](https://www.devmedia.com.br/competencias-essenciais-ao-engenheiro-de-requisitos/34193)
 + [Técnicas para levantamento de Requisitos - Devmedia](https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151)
 + [Canvas Req: Levantamento de requisitos de software com Canvas - DevMedia](https://www.devmedia.com.br/canvas-req-levantamento-de-requisitos-de-software-com-canvas/33991)
++ [Sistema de acompanhamento de requisitos - DEVMEDIA](https://www.devmedia.com.br/sistema-de-acompanhamento-de-requisitos/25368)
 
 
 <br>
