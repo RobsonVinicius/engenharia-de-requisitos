@@ -24,6 +24,7 @@
 + [Canvas Req: Levantamento de requisitos de software com Canvas - DEVMEDIA](https://www.devmedia.com.br/canvas-req-levantamento-de-requisitos-de-software-com-canvas/33991)
 + [Sistema de acompanhamento de requisitos - DEVMEDIA](https://www.devmedia.com.br/sistema-de-acompanhamento-de-requisitos/25368)
 + [Gerenciamento e controle de mudanças de requisitos - DEVMEDIA](https://www.devmedia.com.br/gerenciamento-e-controle-de-mudancas-de-requisitos/32278)
++ [Elicitação de Requisitos: Levantamento de requisitos e técnicas de Elicitação - DEVMEDIA](https://www.devmedia.com.br/elicitacao-de-requisitos-levantamento-de-requisitos-e-tecnicas-de-elicitacao/31872)
 
 
 <br>
