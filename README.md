@@ -25,7 +25,7 @@
 + [Sistema de acompanhamento de requisitos - DEVMEDIA](https://www.devmedia.com.br/sistema-de-acompanhamento-de-requisitos/25368)
 + [Gerenciamento e controle de mudanças de requisitos - DEVMEDIA](https://www.devmedia.com.br/gerenciamento-e-controle-de-mudancas-de-requisitos/32278)
 + [Elicitação de Requisitos: Levantamento de requisitos e técnicas de Elicitação - DEVMEDIA](https://www.devmedia.com.br/elicitacao-de-requisitos-levantamento-de-requisitos-e-tecnicas-de-elicitacao/31872)
-
++ [Metodologia JAD: Técnicas para elicitação de requisitos - DEVMEDIA](https://www.devmedia.com.br/metodologia-jad-tecnicas-para-elicitacao-de-requisitos/34192)
 
 <br>
 
