@@ -29,7 +29,8 @@
 + [Gerenciando requisitos com Kanban - DEVMEDIA](https://www.devmedia.com.br/gerenciando-requisitos-com-kanban/27250)
 + [Gerência de requisitos com OSRMT - DEVMEDIA](https://www.devmedia.com.br/gerencia-de-requisitos-com-osrmt/32707)
 + [IFPUG SNAP: medindo requisitos não funcionais - DEVMEDIA](https://www.devmedia.com.br/ifpug-snap-medindo-requisitos-nao-funcionais/30204)
-+ [RE-Tools: Ferramenta para elicitação de requisitos](https://www.devmedia.com.br/re-tools-ferramenta-para-elicitacao-de-requisitos/31990)
++ [RE-Tools: Ferramenta para elicitação de requisitos - DEVMEDIA](https://www.devmedia.com.br/re-tools-ferramenta-para-elicitacao-de-requisitos/31990)
++ [Rastreabilidade de Requisitos - DEVMEDIA](https://www.devmedia.com.br/rastreabilidade-de-requisitos/25978)
 
 <br>
 
