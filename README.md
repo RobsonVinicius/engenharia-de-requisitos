@@ -31,6 +31,7 @@
 + [IFPUG SNAP: medindo requisitos não funcionais - DEVMEDIA](https://www.devmedia.com.br/ifpug-snap-medindo-requisitos-nao-funcionais/30204)
 + [RE-Tools: Ferramenta para elicitação de requisitos - DEVMEDIA](https://www.devmedia.com.br/re-tools-ferramenta-para-elicitacao-de-requisitos/31990)
 + [Rastreabilidade de Requisitos - DEVMEDIA](https://www.devmedia.com.br/rastreabilidade-de-requisitos/25978)
++ [Casos de Teste: Importância da rastreabilidade entre requisitos - DEVMEDIA](https://www.devmedia.com.br/casos-de-teste-importancia-da-rastreabilidade-entre-requisitos/30524)
 
 <br>
 
