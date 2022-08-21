@@ -32,6 +32,7 @@
 + [RE-Tools: Ferramenta para elicitação de requisitos - DEVMEDIA](https://www.devmedia.com.br/re-tools-ferramenta-para-elicitacao-de-requisitos/31990)
 + [Rastreabilidade de Requisitos - DEVMEDIA](https://www.devmedia.com.br/rastreabilidade-de-requisitos/25978)
 + [Casos de Teste: Importância da rastreabilidade entre requisitos - DEVMEDIA](https://www.devmedia.com.br/casos-de-teste-importancia-da-rastreabilidade-entre-requisitos/30524)
++ [Boas Práticas na Engenharia de Requisitos - Engenharia de Software 27 - DEVMEDIA](https://www.devmedia.com.br/boas-praticas-na-engenharia-de-requisitos-engenharia-de-software-27/17740)
 
 <br>
 
