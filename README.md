@@ -34,6 +34,7 @@
 + [Casos de Teste: Importância da rastreabilidade entre requisitos - DEVMEDIA](https://www.devmedia.com.br/casos-de-teste-importancia-da-rastreabilidade-entre-requisitos/30524)
 + [Boas Práticas na Engenharia de Requisitos - Engenharia de Software 27 - DEVMEDIA](https://www.devmedia.com.br/boas-praticas-na-engenharia-de-requisitos-engenharia-de-software-27/17740)
 + [Soluções Concretas para Problemas Práticos da Engenharia de Requisitos - DEVMEDIA](https://www.devmedia.com.br/solucoes-concretas-para-problemas-praticos-da-engenharia-de-requisitos/12820)
++ [Requisitos para agilidade - DEVMEDIA](https://www.devmedia.com.br/requisitos-para-agilidade/23340)
 
 <br>
 
