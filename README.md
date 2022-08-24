@@ -35,6 +35,7 @@
 + [Boas Práticas na Engenharia de Requisitos - Engenharia de Software 27 - DEVMEDIA](https://www.devmedia.com.br/boas-praticas-na-engenharia-de-requisitos-engenharia-de-software-27/17740)
 + [Soluções Concretas para Problemas Práticos da Engenharia de Requisitos - DEVMEDIA](https://www.devmedia.com.br/solucoes-concretas-para-problemas-praticos-da-engenharia-de-requisitos/12820)
 + [Requisitos para agilidade - DEVMEDIA](https://www.devmedia.com.br/requisitos-para-agilidade/23340)
++ [Trabalhando com requisitos ágeis - DEVMEDIA](https://www.devmedia.com.br/trabalhando-com-requisitos-ageis/28047)
 
 <br>
 
