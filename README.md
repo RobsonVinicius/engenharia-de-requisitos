@@ -49,6 +49,7 @@
 
 ### 🎓 Cursos
 
++ [Introdução à Engenharia de Requisitos / Devmedia](https://www.devmedia.com.br/curso/introducao-a-engenharia-de-requisitos/132)
 + [Soluções Concretas para Problemas Práticos da Engenharia de Requisitos - Devmedia](https://www.devmedia.com.br/curso/solucoes-concretas-para-problemas-praticos-da-engenharia-de-requisitos/308)
 + [Requisitos - Fabrício Laguna / Udemy](https://www.udemy.com/course/requisitos/#instructor-1)
 + [Engenharia de requisitos: como levantar, documentar e validar - Alura](https://www.alura.com.br/curso-online-engenharia-requisitos)
