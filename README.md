@@ -36,6 +36,7 @@
 + [Soluções Concretas para Problemas Práticos da Engenharia de Requisitos - DEVMEDIA](https://www.devmedia.com.br/solucoes-concretas-para-problemas-praticos-da-engenharia-de-requisitos/12820)
 + [Requisitos para agilidade - DEVMEDIA](https://www.devmedia.com.br/requisitos-para-agilidade/23340)
 + [Trabalhando com requisitos ágeis - DEVMEDIA](https://www.devmedia.com.br/trabalhando-com-requisitos-ageis/28047)
++ [Levantamento de requisitos utilizando o Scrum - DEVMEDIA](https://www.devmedia.com.br/levantamento-de-requisitos-utilizando-o-scrum/33222)
 
 <br>
 
