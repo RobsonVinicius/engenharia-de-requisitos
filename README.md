@@ -37,6 +37,7 @@
 + [Requisitos para agilidade - DEVMEDIA](https://www.devmedia.com.br/requisitos-para-agilidade/23340)
 + [Trabalhando com requisitos ágeis - DEVMEDIA](https://www.devmedia.com.br/trabalhando-com-requisitos-ageis/28047)
 + [Levantamento de requisitos utilizando o Scrum - DEVMEDIA](https://www.devmedia.com.br/levantamento-de-requisitos-utilizando-o-scrum/33222)
++ [Trabalhando com requisitos no Scrum - DEVMEDIA](https://www.devmedia.com.br/trabalhando-com-requisitos-no-scrum/33899)
 
 <br>
 
