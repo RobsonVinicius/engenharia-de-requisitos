@@ -40,7 +40,7 @@
 + [Trabalhando com requisitos no Scrum - DEVMEDIA](https://www.devmedia.com.br/trabalhando-com-requisitos-no-scrum/33899)
 + [Introdução a métricas de software - DEVMEDIA](https://www.devmedia.com.br/introducao-a-metricas-de-software/36856)
 + [Scrum backlog: requisitos não funcionais - DEVMEDIA](https://www.devmedia.com.br/scrum-backlog-requisitos-nao-funcionais/30203)
-
++ [Desenvolvimento Ágil: análise sobre requisitos tradicionais - DEVMEDIA](https://www.devmedia.com.br/desenvolvimento-agil-analise-sobre-requisitos-tradicionais/30202)
 <br>
 
 ### 📚 Livros
