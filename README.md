@@ -42,7 +42,7 @@
 + [Scrum backlog: requisitos não funcionais - DEVMEDIA](https://www.devmedia.com.br/scrum-backlog-requisitos-nao-funcionais/30203)
 + [Desenvolvimento Ágil: análise sobre requisitos tradicionais - DEVMEDIA](https://www.devmedia.com.br/desenvolvimento-agil-analise-sobre-requisitos-tradicionais/30202)
 + [Abordando a Engenharia de Requisitos no MPS.BR - DEVMEDIA](https://www.devmedia.com.br/abordando-a-engenharia-de-requisitos-no-mps-br/24099)
-+ [Gerenciando requisitos com MPS.BR - DEVMEDIA](https://www.devmedia.com.br/gerenciando-requisitos-com-mps-br/29375)
++ [Documentando requisitos de um sistema - Abordagem prática - DEVMEDIA](https://www.devmedia.com.br/documentando-requisitos-de-um-sistema-abordagem-pratica/29302)
 
 <br>
 
