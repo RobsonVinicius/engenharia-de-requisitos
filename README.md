@@ -43,6 +43,7 @@
 + [Desenvolvimento Ágil: análise sobre requisitos tradicionais - DEVMEDIA](https://www.devmedia.com.br/desenvolvimento-agil-analise-sobre-requisitos-tradicionais/30202)
 + [Abordando a Engenharia de Requisitos no MPS.BR - DEVMEDIA](https://www.devmedia.com.br/abordando-a-engenharia-de-requisitos-no-mps-br/24099)
 + [Documentando requisitos de um sistema - Abordagem prática - DEVMEDIA](https://www.devmedia.com.br/documentando-requisitos-de-um-sistema-abordagem-pratica/29302)
++ [Detalhando os requisitos de um sistema de solicitações - Parte 1 e 2 - DEVMEDIA](https://www.devmedia.com.br/detalhando-os-requisitos-de-um-sistema-de-solicitacoes-parte-1-e-2/28199)
 
 <br>
 
