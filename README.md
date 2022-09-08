@@ -45,7 +45,7 @@
 + [Documentando requisitos de um sistema - Abordagem prática - DEVMEDIA](https://www.devmedia.com.br/documentando-requisitos-de-um-sistema-abordagem-pratica/29302)
 + [Detalhando os requisitos de um sistema de solicitações - Parte 1 e 2 - DEVMEDIA](https://www.devmedia.com.br/detalhando-os-requisitos-de-um-sistema-de-solicitacoes-parte-1-e-2/28199)
 + [Detalhando na prática os requisitos de um sistema de solicitações – Parte 3 - DEVMEDIA](https://www.devmedia.com.br/detalhando-na-pratica-os-requisitos-de-um-sistema-de-solicitacoes-parte-3/28938)
-
++ [Processo de mudança de requisitos na prática - DEVMEDIA](https://www.devmedia.com.br/detalhando-na-pratica-os-requisitos-de-um-sistema-de-solicitacoes-parte-3/28938](https://www.devmedia.com.br/processo-de-mudanca-de-requisitos-na-pratica/29210)
 
 <br>
 
