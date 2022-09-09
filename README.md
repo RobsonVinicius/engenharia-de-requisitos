@@ -64,6 +64,7 @@
 + [Requisitos - Fabrício Laguna / Udemy](https://www.udemy.com/course/requisitos/#instructor-1)
 + [Engenharia de requisitos: como levantar, documentar e validar - Alura](https://www.alura.com.br/curso-online-engenharia-requisitos)
 + [Engenharia de requisitos: da demanda ao gerenciamento - Alura](https://www.alura.com.br/curso-online-engenharia-requisitos-demanda-gerenciamento)
++ [Levantamento de requisitos: Planejando uma aplicação de lembretes - DevMedia](https://www.devmedia.com.br/curso/curso-levantamento-requisitos/2123)
 
 <br>
   
