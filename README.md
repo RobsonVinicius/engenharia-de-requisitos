@@ -46,6 +46,9 @@
 + [Detalhando os requisitos de um sistema de solicitações - Parte 1 e 2 - DEVMEDIA](https://www.devmedia.com.br/detalhando-os-requisitos-de-um-sistema-de-solicitacoes-parte-1-e-2/28199)
 + [Detalhando na prática os requisitos de um sistema de solicitações – Parte 3 - DEVMEDIA](https://www.devmedia.com.br/detalhando-na-pratica-os-requisitos-de-um-sistema-de-solicitacoes-parte-3/28938)
 + [Processo de mudança de requisitos na prática - DEVMEDIA](https://www.devmedia.com.br/detalhando-na-pratica-os-requisitos-de-um-sistema-de-solicitacoes-parte-3/28938)
++ [Iniciando a Gestão de Riscos pela etapa de Engenharia de Requisitos - DEVMEDIA](https://www.devmedia.com.br/iniciando-a-gestao-de-riscos-pela-etapa-de-engenharia-de-requisitos/29376)
+
+
 
 <br>
 
