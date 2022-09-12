@@ -48,6 +48,7 @@
 + [Processo de mudança de requisitos na prática - DEVMEDIA](https://www.devmedia.com.br/detalhando-na-pratica-os-requisitos-de-um-sistema-de-solicitacoes-parte-3/28938)
 + [Iniciando a Gestão de Riscos pela etapa de Engenharia de Requisitos - DEVMEDIA](https://www.devmedia.com.br/iniciando-a-gestao-de-riscos-pela-etapa-de-engenharia-de-requisitos/29376)
 + [Gerenciando mudanças a partir de requisitos - DEVMEDIA](https://www.devmedia.com.br/gerenciando-mudancas-a-partir-de-requisitos/23331)
++ [Como extrair os requisitos de usabilidade de uma aplicação - DEVMEDIA](https://www.devmedia.com.br/como-extrair-os-requisitos-de-usabilidade-de-uma-aplicacao/12821)
 
 
 
