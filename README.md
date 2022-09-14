@@ -50,6 +50,7 @@
 + [Gerenciando mudanças a partir de requisitos - DEVMEDIA](https://www.devmedia.com.br/gerenciando-mudancas-a-partir-de-requisitos/23331)
 + [Como extrair os requisitos de usabilidade de uma aplicação - DEVMEDIA](https://www.devmedia.com.br/como-extrair-os-requisitos-de-usabilidade-de-uma-aplicacao/12821)
 + [Uso de cenários para especificação de requisitos de qualidade e avaliação de arquitetura - DEVMEDIA](https://www.devmedia.com.br/uso-de-cenarios-para-especificacao-de-requisitos-de-qualidade-e-avaliacao-de-arquitetura/22528)
++ [Principais Anomalias Arquiteturais de Software - DEVMEDIA](https://www.devmedia.com.br/principais-anomalias-arquiteturais-de-software/39807)
 
 
 
