@@ -60,7 +60,7 @@
 ### 📚 Livros
  
 + [Engenharia de requisitos: software orientado ao negócio – Vazquez, Simões](https://amzn.to/40OjHzn)
-+ Metodologia e Engenharia de Requisitos Para Projetos de Business Intelligence - Bonel { [Comprar na Amazon](https://amzn.to/3fxxOVG) }
++ [Metodologia e Engenharia de Requisitos Para Projetos de Business Intelligence - Bonel](https://amzn.to/418Bxyb)
 
 
 <br>
