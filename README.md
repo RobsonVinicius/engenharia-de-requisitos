@@ -10,6 +10,16 @@
 
 <br>
 
+### 📚 Livros
+
+| Capa | Livro | Autor | Livro Físico | Versão Kindle | 
+| --- | --- | --- | --- | --- |
+| <img src="https://m.media-amazon.com/images/I/61P5wJCtpmL._SL1130_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Engenharia de requisitos: software orientado ao negócio | Vazquez, Simões | [Veja Mais](https://amzn.to/40OjHzn) | [Veja Mais](https://amzn.to/4hY3Llf)|
+
++ [Metodologia e Engenharia de Requisitos Para Projetos de Business Intelligence - Bonel](https://amzn.to/418Bxyb)
+
+<br>
+
 ### 📰 Posts / Artigos
 
 + [Introdução a Engenharia de Requisitos - DEVMEDIA](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/29454)
@@ -51,17 +61,6 @@
 + [Como extrair os requisitos de usabilidade de uma aplicação - DEVMEDIA](https://www.devmedia.com.br/como-extrair-os-requisitos-de-usabilidade-de-uma-aplicacao/12821)
 + [Uso de cenários para especificação de requisitos de qualidade e avaliação de arquitetura - DEVMEDIA](https://www.devmedia.com.br/uso-de-cenarios-para-especificacao-de-requisitos-de-qualidade-e-avaliacao-de-arquitetura/22528)
 + [Principais Anomalias Arquiteturais de Software - DEVMEDIA](https://www.devmedia.com.br/principais-anomalias-arquiteturais-de-software/39807)
-
-
-
-
-<br>
-
-### 📚 Livros
- 
-+ [Engenharia de requisitos: software orientado ao negócio – Vazquez, Simões](https://amzn.to/40OjHzn)
-+ [Metodologia e Engenharia de Requisitos Para Projetos de Business Intelligence - Bonel](https://amzn.to/418Bxyb)
-
 
 <br>
 
