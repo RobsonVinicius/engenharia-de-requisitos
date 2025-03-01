@@ -13,7 +13,7 @@
 ### 📚 Livros
 
 | Capa | Livro | Autor | Livro Físico | Versão Kindle | 
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | :---: | :---: |
 | <img src="https://m.media-amazon.com/images/I/61P5wJCtpmL._SL1130_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Engenharia de requisitos: software orientado ao negócio | Vazquez, Simões | [Veja Mais](https://amzn.to/40OjHzn) | [Veja Mais](https://amzn.to/4hY3Llf)|
 | <img src="https://m.media-amazon.com/images/I/41E44Q6YiuL.jpg" min-width="50px" width="50px" align="center" alt="image"> | Metodologia e Engenharia de Requisitos Para Projetos de Business Intelligence | Bonel | [Veja Mais](https://amzn.to/40OjHzn) | |
 
